@@ -1,0 +1,119 @@
+body{
+    margin: 20px 40px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+#menuItems{
+    display: flex;
+    
+}
+#image{
+    width: 100px;
+}
+.menu{
+    font-size: 18px;
+    padding: 20px;
+    color: gray;
+}
+.menu:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #8071D0;
+}
+button{
+    background-color: lightpink;
+    color: #5243C0;
+    border-radius: 5px;
+    
+}
+#container{
+    display: flex;
+}
+#tab{
+    background-color:blueviolet;
+    color: white;
+    border: 1px solid;
+    border-radius: 10px;
+}
+#uparrow{
+    width: 42px;
+    
+}
+#downarrow{
+    width: 42px;
+}
+#box1{
+    display: flex;
+    border: 1px solid gray;
+ width: 400px;
+    background-color: lightblue;
+}
+#image1{
+    width: 30px;
+}
+#image2{
+    width: 30px;
+}
+.items{
+    padding: 5px;
+}
+#box2{
+    display: flex;
+    border: 1px solid gray; 
+ width: 400px;
+    background-color: lightblue;
+}
+#box3{
+    display: flex;
+    border: 1px solid gray;
+ width: 400px;
+    background-color: lightblue;
+}
+#box4{
+    display: flex;
+    border: 1px solid gray; 
+ width: 400px;
+    background-color: lightblue;
+}
+#box1:hover{
+    background-color: white;
+}
+#box2:hover{
+    background-color: white;
+}
+#box3:hover{
+    background-color: white;
+}
+#box4:hover{
+    background-color: white;
+}
+#image1:hover{
+    background-color: blue;
+}
+#leftContainer{
+    width: 40%;
+    margin: 20px;
+}
+#rightContainer{
+    width: 60%;
+    align-items: center;
+}
+section{
+    display: flex;
+    margin: 40px;
+}
+#pic{
+    width: 80%;
+    height: 80%;
+}
+h1{
+    font-weight: 900;
+    font-size: 42px;
+    
+}
+p1{
+    font-size: 20px;
+}
+
